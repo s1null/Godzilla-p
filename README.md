@@ -2,6 +2,8 @@
 > 📌 本项目基于 [Godzilla](https://github.com/BeichenDream/Godzilla) , [Z-Godzilla_ekp](https://github.com/kong030813/Z-Godzilla_ekp) 构建
 >
 
+### 生成的shell并不具备免杀能力，均是使用原版哥斯拉添加上了profile功能，有免杀需求的师傅需要自行修改
+
 ## 📖 1. 基本介绍
 Profile功能用于自定义请求和响应模板，可以帮助你更好地控制WebShell的通信过程。它采用动态payload分割机制，通过随机分割和分布方式提高通信的隐蔽性。
 
